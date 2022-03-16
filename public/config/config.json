@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC566B3d655F5470278a97Fb62002B53a26AFEF18",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xc566b3d655f5470278a97fb62002b53a26afef18#code",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "gg",
+  "SYMBOL": "gg",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 6900000000000000,
+  "DISPLAY_COST": 0.0069,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/gg-nh7l2xwpj1",
+  "SHOW_BACKGROUND": true
+}
