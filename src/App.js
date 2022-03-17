@@ -415,7 +415,7 @@ function App() {
             }}
           >
             Please make sure you are connected to the right network (
-            {CONFIG.NETWORK.NAME} Mainnet) and the correct address. The First 1696 NFT's
+            {CONFIG.NETWORK.NAME} Mainnet) and the correct address. The First 1969 NFT's
             are Free. Welcome to the Wicked Worlds!
           </s.TextDescription>
           <s.SpacerSmall />

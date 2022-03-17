@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xC566B3d655F5470278a97Fb62002B53a26AFEF18",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xc566b3d655f5470278a97fb62002b53a26afef18#code",
+  "CONTRACT_ADDRESS": "0x2AA8Ff2eD942985320343CE362e0c68D203d595f",
+  "SCAN_LINK": "https://etherscan.io/address/0x2aa8ff2ed942985320343ce362e0c68d203d595f",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
-  "NFT_NAME": "gg",
-  "SYMBOL": "gg",
+  "NFT_NAME": "Wicked Worlds NFT",
+  "SYMBOL": "WickedWorlds",
   "MAX_SUPPLY": 6969,
   "WEI_COST": 6900000000000000,
   "DISPLAY_COST": 0.0069,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/gg-nh7l2xwpj1",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/wicked-worlds-nft",
   "SHOW_BACKGROUND": true
 }
