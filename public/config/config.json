@@ -9,7 +9,7 @@
   "NFT_NAME": "Wicked Worlds NFT",
   "SYMBOL": "WickedWorlds",
   "MAX_SUPPLY": 6969,
-  "WEI_COST": 6900000000000000,
+  "WEI_COST": 0,
   "DISPLAY_COST": 0.0069,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
